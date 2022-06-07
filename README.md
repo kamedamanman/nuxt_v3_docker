@@ -2,9 +2,9 @@
 
 DockerでNuxt3の開発環境をつくるためのリポジトリ
 
-## 1. Docker install6
+## 1. DockerDesktop install
 
-[公式より](https://matsuand.github.io/docs.docker.jp.onthefly/get-docker/)
+[installはこちら](https://matsuand.github.io/docs.docker.jp.onthefly/get-docker/)
 
 ## 2. コンテナ起動
 
@@ -26,3 +26,7 @@ yarn dev
 ## 3.スタートページの確認
 
 http://localhost:3000/ 
+
+## 4.サンプルを動かしてみよう
+
+[Nuxt.js](https://nuxtjs.org/ja/examples/routing/hello-world)
